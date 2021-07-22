@@ -30,7 +30,7 @@ dataset = pd.read_csv('Data.csv')
 
 <br>
 
-![Dummy Dataset](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/main/assets/dataset.png "Dummy Dataset")   
+![Dummy Dataset](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/main/assets/dataset.png?raw=true "Dummy Dataset")   
 
 <br>
 
