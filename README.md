@@ -30,7 +30,7 @@ dataset = pd.read_csv('Data.csv')
 
 <br>
 
-![Dummy Dataset](assets/dataset.png "Dummy Dataset")   
+![Dummy Dataset](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/assets/dataset.png "Dummy Dataset")   
 
 <br>
 
@@ -49,7 +49,7 @@ specific_criteria = dataset[(dataset['science'] < 50) & (dataset['maths'] < 50)]
  ```
 <br>
 
-![Output](assets/output.png "Output")   
+![Output](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/assets/output.png "Output")   
 
 ___
 ___
