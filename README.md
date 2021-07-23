@@ -49,7 +49,7 @@ specific_criteria = dataset[(dataset['science'] < 50) & (dataset['maths'] < 50)]
  ```
 <br>
 
-![Output](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/main/assets/output.png "Output")   
+![Output](https://raw.githubusercontent.com/Maskey71098/Leapfrog-Data-Engineering/main/assets/output.PNG "Output")   
 
 ___
 ___
